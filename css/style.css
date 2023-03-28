@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+.Nerko-One { font-family: 'Nerko One', cursive; }
+.Chakra-Petch { font-family: 'Chakra Petch', sans-serif; }
+.default-font { font-family: sans-serif; }
+
+.card {
+    max-width: 615px;
+    border: none;
+}
+
+.playlist-width {
+    max-width: 700px;
+}
+
+.bg-gradient1 {
+    background: rgb(44,44,87);
+    background: linear-gradient(90deg, rgba(44,44,87,1) 0%, rgba(26,117,135,1) 100%);
+}
+
+.btn-group { max-width: 580px; }
+
+input {
+    background-color: rgb(63, 63, 63);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.form-width {
+    max-width: 350px;
+}
